@@ -1,290 +1,169 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Priyanshu%20Pal&fontSize=60&fontColor=C9A9FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,25:9B5DE5,50:F15BB5,75:00BBF9,100:00F5D4&height=280&section=header&text=Hey,%20I'm%20Priyanshu%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%C2%B7%20Full%20Stack%20Developer%20%C2%B7%20Builder&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems+with+AI%2FML;Full+Stack+Developer+%7C+React.js+%2B+Python;Turning+Data+into+Deep+Learning+Solutions;Open+to+SDE+%2F+AI+Engineer+Roles" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2200&pause=700&color=00F5D4&center=true&vCenter=true&width=750&lines=const+engineer+%3D+%7B+ai%3A+true%2C+fullstack%3A+true+%7D;building+MoleculeAI+%F0%9F%A7%AC+%7C+shipping+ideas+%F0%9F%9A%80;CGPA%3A+8.94+%7C+B.Tech+CSE+%7C+LPU;open+to+SDE+%2F+AI+Engineer+roles+%E2%9C%A8" alt="typing"/>
 
 <br/>
 
-![B.Tech CSE](https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=for-the-badge&logo=studyverse&logoColor=white)
-![CGPA](https://img.shields.io/badge/CGPA-8.94-8B5CF6?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Punjab%2C%20India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=flat-square&logo=vercel&logoColor=white)](https://github.com/Priyanshupal08)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-5B21B6?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-pal2006)
-[![Email](https://img.shields.io/badge/Email-Contact-4C1D95?style=flat-square&logo=gmail&logoColor=white)](mailto:priyanshupal081206@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/Priyanshupal08)
+<a href="mailto:priyanshupal081206@gmail.com"><img src="https://img.shields.io/badge/-Email-00F5D4?style=for-the-badge&logo=gmail&logoColor=000"/></a>
+<a href="https://linkedin.com/in/priyanshu-pal2006"><img src="https://img.shields.io/badge/-LinkedIn-9B5DE5?style=for-the-badge&logo=linkedin&logoColor=fff"/></a>
+<a href="https://github.com/Priyanshupal08"><img src="https://img.shields.io/badge/-GitHub-F15BB5?style=for-the-badge&logo=github&logoColor=fff"/></a>
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Priyanshupal08&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Priyanshupal08?style=for-the-badge&color=A78BFA&labelColor=1e1e2e)
-![Stars](https://img.shields.io/github/stars/Priyanshupal08?style=for-the-badge&color=C4B5FD&labelColor=1e1e2e)
+<img src="https://komarev.com/ghpvc/?username=Priyanshupal08&style=for-the-badge&color=9B5DE5&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/Priyanshupal08?style=for-the-badge&color=00F5D4&labelColor=1e1e2e"/>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
-## 🪐 About Me
+## 🪄 About Me
 
-```yaml
-name: "Priyanshu Pal"
-role: "Software Engineer | AI/ML Enthusiast | Full Stack Developer"
-education: "B.Tech CSE @ Lovely Professional University (CGPA: 8.94)"
-focus:
-  - Building AI/ML systems that solve real-world problems
-  - Engineering scalable full stack web applications
-  - Exploring Deep Learning, NLP & Molecular Intelligence
-mindset: "Product-first engineering with a research-driven approach"
+<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif"/>
+
+- 🔭 Currently building **MoleculeAI** — predicting molecular properties with ML/DL
+- 🌱 Deepening my knowledge of **Transformers**, **NLP** & **System Design**
+- 🎓 B.Tech CSE @ **Lovely Professional University** — CGPA **8.94**
+- ⚡ Fun fact: I've simulated OS-level IPC *and* controlled a media player with hand gestures
+- 📫 Reach me at **priyanshupal081206@gmail.com**
+- 🎯 Open to **Software Engineering**, **AI/ML Engineer**, and **Research** roles
+
+<br clear="both"/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+
+## 🧬 Skill Radar
+
+```mermaid
+%%{init: {'theme':'dark'}}%%
+pie showData
+    title Where my hours go
+    "AI / Machine Learning" : 35
+    "Full Stack Development" : 30
+    "DSA & Problem Solving" : 20
+    "Embedded / Hardware" : 15
 ```
 
-I'm a Computer Science undergraduate with a strong foundation in **software engineering**, **AI/ML**, and **full stack development**. I enjoy building systems end-to-end — from designing machine learning pipelines to shipping production-ready web interfaces. My work spans **molecular intelligence**, **operating systems simulation**, and **human-computer interaction**, with a consistent focus on writing clean, scalable, and well-engineered code.
-
-**🎯 Open To:** Software Engineering Internships/Roles · AI/ML Engineer Roles · Open Source Collaboration · Research Assistantships
-
----
-
-## 🧠 Tech Stack
-
-**Languages**
-
-![C++](https://skillicons.dev/icons?i=cpp) ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java)
-
-**Frontend**
-
-![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![React](https://skillicons.dev/icons?i=react) ![Tailwind](https://skillicons.dev/icons?i=tailwind)
-
-**AI/ML & Data**
-
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
-
-**Cloud, DevOps & Tooling**
-
-![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Arduino](https://skillicons.dev/icons?i=arduino)
-
----
-
-## 🤖 AI / ML Expertise
-
 <div align="center">
 
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| **Machine Learning** | ⭐⭐⭐⭐☆ | Random Forest, XGBoost, feature engineering, model evaluation |
-| **Deep Learning** | ⭐⭐⭐⭐☆ | Transformer-based architectures, TensorFlow model development |
-| **Data Analysis** | ⭐⭐⭐⭐☆ | Pandas, NumPy, exploratory data analysis, visualization |
-| **NLP** | ⭐⭐⭐☆☆ | Text feature extraction, sequence modeling fundamentals |
-| **Molecular Intelligence** | ⭐⭐⭐⭐☆ | SMILES notation, molecular descriptors, property prediction (RDKit) |
+<img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,react,tailwind,tensorflow,git,github,vscode,arduino&theme=dark&perline=7" />
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
-## 🚀 Featured Projects
+## 🗺️ Journey So Far
 
-<details>
-<summary><b>🧬 MoleculeAI — Neural Synthesis & Molecular Intelligence</b></summary>
-<br/>
+```mermaid
+%%{init: {'theme': 'dark'}}%%
+timeline
+    title From First Line of Code to AI Engineer
+    2021–2022 : Matriculation, 92.2%
+    2023–2024 : Intermediate, 84.4%
+    2024 : Started B.Tech CSE @ LPU
+    Feb 2025 : Python & SQL Basics — HackerRank
+    Apr 2025 : Advitiya Hackathon @ IIT Ropar
+    Jun 2025 : GenAI Fundamentals Certified
+    Jul–Aug 2025 : CSR Internship — WNS Cares Foundation
+    Oct 2025 : Built Gesture Controlled Media Player
+    Jan 2026 : Built Secure IPC Simulation
+    Mar 2026 : AI Course — Infosys Springboard
+    May 2026 : Shipped MoleculeAI
+```
 
-AI-based molecular analysis system predicting properties such as toxicity and solubility using machine learning and deep learning techniques, built on SMILES-notation molecular data with descriptor-based feature extraction.
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
-| Attribute | Detail |
-|---|---|
-| **Stack** | Python, TensorFlow, Scikit-Learn, React.js, Tailwind CSS, RDKit, XGBoost |
-| **Scale** | Multi-model comparison pipeline (Random Forest, XGBoost, Transformers) |
-| **Performance** | Optimized molecular descriptor feature extraction for prediction accuracy |
-| **Security** | Isolated data processing pipeline for molecular datasets |
-| **Impact** | Enables faster in-silico prediction of molecular toxicity & solubility |
-| **Repository** | [github.com/Priyanshupal08](https://github.com/Priyanshupal08) |
+## 🧩 Featured Builds
 
-Implemented and benchmarked multiple ML/DL models — Random Forest, XGBoost, and transformer-based architectures — for molecular property prediction, combining rigorous feature engineering with a modern web interface for result visualization.
+<table align="center" width="100%">
+<tr>
+<td width="33%" valign="top" align="center">
+<img width="60" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
 
-</details>
+### MoleculeAI
+Predicting molecular toxicity & solubility with ML/DL.
 
-<details>
-<summary><b>🔐 Secure IPC — Inter-Process Communication Simulation</b></summary>
-<br/>
+`Python` `TensorFlow` `RDKit` `XGBoost`
+**May 2026**
+</td>
+<td width="33%" valign="top" align="center">
+<img width="60" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif"/>
 
-Web-based simulation platform demonstrating core Inter-Process Communication mechanisms used in operating systems, with an interactive interface for visualizing process interactions.
+### Secure IPC
+Interactive OS-level IPC mechanism simulator.
 
-| Attribute | Detail |
-|---|---|
-| **Stack** | HTML, CSS, JavaScript |
-| **Scale** | Simulates multiple concurrent process interactions |
-| **Performance** | Real-time visualization of message routing & shared memory |
-| **Security** | Simulated process lifecycle management with controlled state transitions |
-| **Impact** | Simplifies understanding of OS-level IPC concepts for learners |
-| **Repository** | [github.com/Priyanshupal08](https://github.com/Priyanshupal08) |
+`HTML` `CSS` `JavaScript`
+**Jan 2026**
+</td>
+<td width="33%" valign="top" align="center">
+<img width="60" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif"/>
 
-Built message routing, shared memory visualization, and process lifecycle management features within an interactive UI, making abstract operating system concepts tangible and easy to grasp.
+### Gesture Media Player
+Touch-free media control via Arduino + ultrasonic sensors.
 
-</details>
+`Arduino` `PySerial`
+**Oct 2025**
+</td>
+</tr>
+</table>
 
-<details>
-<summary><b>🎮 Gesture Controlled Media Player</b></summary>
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
-Gesture-controlled media system built on Arduino Uno and ultrasonic sensors, enabling touch-free multimedia interaction through real-time hardware-software communication.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | Arduino IDE, Python (PySerial), Arduino Uno, Ultrasonic Sensors |
-| **Scale** | Single-device embedded + host system integration |
-| **Performance** | Real-time gesture recognition with low-latency serial communication |
-| **Security** | Controlled serial communication channel between hardware and host |
-| **Impact** | Touch-free media control via intuitive gesture recognition |
-| **Repository** | [github.com/Priyanshupal08](https://github.com/Priyanshupal08) |
-
-Implemented play, pause, volume adjustment, and track navigation via gesture recognition, integrating Arduino hardware with Python serial communication for real-time interaction.
-
-</details>
-
----
-
-## 💼 Experience
-
-**CSR Project Intern · WNS Cares Foundation**
-`July 2025 – August 2025`
-
-Contributed to a corporate social responsibility initiative, applying technical and analytical skills to support project execution and community impact goals.
-
-- Collaborated on project execution within a structured CSR framework
-- Applied analytical and problem-solving skills to real-world social impact tasks
-- Strengthened teamwork and cross-functional collaboration abilities
-
-`Collaboration` `Project Execution` `Analytical Thinking`
-
----
-
-## 🏆 Achievements
+## 📡 Live GitHub Signal
 
 <div align="center">
 
-| Recognition | Details |
-|---|---|
-| 🏅 **Advitiya Hackathon — IIT Ropar** | Participated across AI Fusion, Code Hunt, Math Arena, CTF (April 2025) |
-| 🎓 **AI Course — Infosys Springboard** | Completed Artificial Intelligence coursework (March 2026) |
-| 🤖 **GenAI Fundamentals** | Certified in Generative AI foundational concepts (June 2025) |
-| 💻 **Python & SQL Basics — HackerRank** | Certified proficiency in Python & SQL (February 2025) |
-| 🌱 **CSR Internship — WNS Cares Foundation** | Completed project internship (July–August 2025) |
+<img src="https://github-readme-stats-sigma-ashy.vercel.app/api?username=Priyanshupal08&show_icons=true&theme=synthwave&hide_border=true&bg_color=00000000&title_color=00F5D4&icon_color=F15BB5&text_color=e0e0e0&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshupal08&theme=dark&hide_border=true&background=00000000&ring=9B5DE5&fire=F15BB5&currStreakLabel=00F5D4" width="48%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshupal08&theme=react-dark&hide_border=true&bg_color=00000000&color=00F5D4&line=9B5DE5&point=F15BB5" width="98%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Priyanshupal08&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
 
 </div>
 
----
-
-## 📜 Certifications
-
-**AWS / Cloud & Industry**
-
-![Infosys](https://img.shields.io/badge/Infosys-Artificial%20Intelligence-6D28D9?style=for-the-badge&logo=infosys&logoColor=white)
-
-**NPTEL / Academic**
-
-![GenAI](https://img.shields.io/badge/GenAI-Fundamentals-7C3AED?style=for-the-badge&logo=googlebard&logoColor=white)
-
-**HackerRank**
-
-![HackerRank](https://img.shields.io/badge/HackerRank-Python%20%26%20SQL%20Basics-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white)
-
----
-
-## 💻 Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-5B21B6?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-4C1D95?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-7C3AED?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Priyanshupal08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshupal08&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshupal08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="49%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Priyanshupal08&theme=discord&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshupal08&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD" width="100%"/>
-
-</div>
-
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Priyanshupal08/Priyanshupal08/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Priyanshupal08/Priyanshupal08/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
-## 🎯 Current Focus
-
-```yaml
-Learning:
-  - Deep Learning architectures for molecular & NLP tasks
-  - Advanced Data Structures & System Design
-Building:
-  - AI-powered full stack applications
-  - Molecular intelligence & predictive modeling tools
-Exploring:
-  - Generative AI & Transformer architectures
-  - Open Source contribution opportunities
-Open To:
-  - Software Engineering roles
-  - AI/ML Engineer roles
-  - Research collaborations
-```
-
----
-
-## 📫 Connect With Me
+## 🏆 Certifications & Recognition
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-priyanshupal081206%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshupal081206@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-priyanshu--pal2006-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-pal2006)
-[![GitHub](https://img.shields.io/badge/GitHub-Priyanshupal08-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priyanshupal08)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Priyanshupal08)
+![Infosys](https://img.shields.io/badge/Infosys-Artificial%20Intelligence-00F5D4?style=for-the-badge)
+![GenAI](https://img.shields.io/badge/GenAI-Fundamentals-9B5DE5?style=for-the-badge)
+![HackerRank](https://img.shields.io/badge/HackerRank-Python%20%26%20SQL-F15BB5?style=for-the-badge&logo=hackerrank&logoColor=white)
+![IIT Ropar](https://img.shields.io/badge/IIT%20Ropar-Advitiya%20Hackathon-00BBF9?style=for-the-badge)
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+
+## 💬 Let's Build Something
 
 <div align="center">
 
-*"Engineering intelligent systems, one commit at a time."*
+<img width="200" src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1d54-4f4c-8f6e-cf5e28f39a04.gif"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer" width="100%"/>
+I'm most excited by problems where **AI meets real-world impact**. If that's you too, let's talk.
+
+<a href="mailto:priyanshupal081206@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-00F5D4?style=for-the-badge&logo=gmail&logoColor=000"/></a>
+<a href="https://linkedin.com/in/priyanshu-pal2006"><img src="https://img.shields.io/badge/Let's%20Connect-9B5DE5?style=for-the-badge&logo=linkedin&logoColor=fff"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,25:9B5DE5,50:F15BB5,75:00BBF9,100:00F5D4&height=150&section=footer" width="100%"/>
 
 </div>
