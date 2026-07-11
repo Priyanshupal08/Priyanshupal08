@@ -1,97 +1,72 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,35:7C3AED,70:C026D3,100:4F46E5&height=270&section=header&text=PRIYANSHU%20PAL&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20AI%2FML%20Engineer%20%C2%B7%20Full%20Stack%20Developer&descAlignY=54&descSize=19&fontFamily=Poppins" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Priyanshu%20Pal&fontSize=60&fontColor=C9A9FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Turning+Ideas+into+Intelligent%2C+Scalable+Systems;Building+MoleculeAI+%F0%9F%A7%AC+%7C+Engineering+the+Future;Where+Machine+Learning+Meets+Great+Product+Design;Currently+Open+to+SDE+%2F+AI+Engineer+Roles" alt="tagline"/>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,50:A855F7,100:D946EF&height=4&section=header" width="60%"/>
-
-<br/><br/>
-
-<a href="https://github.com/Priyanshupal08"><img src="https://img.shields.io/badge/AI%2FML%20ENGINEER-4F46E5?style=flat-square&labelColor=1e1b2e"/></a>
-<a href="https://github.com/Priyanshupal08"><img src="https://img.shields.io/badge/FULL%20STACK%20DEVELOPER-7C3AED?style=flat-square&labelColor=1e1b2e"/></a>
-<a href="https://github.com/Priyanshupal08"><img src="https://img.shields.io/badge/OPEN%20SOURCE%20CONTRIBUTOR-C026D3?style=flat-square&labelColor=1e1b2e"/></a>
-
-<br/><br/>
-
-<a href="https://github.com/Priyanshupal08"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://linkedin.com/in/priyanshu-pal2006"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:priyanshupal081206@gmail.com"><img src="https://img.shields.io/badge/Email-9333EA?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Priyanshupal08"><img src="https://img.shields.io/badge/GitHub-C026D3?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Priyanshupal08&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/Priyanshupal08?style=for-the-badge&color=C084FC&labelColor=1e1b2e"/>
-<img src="https://img.shields.io/github/stars/Priyanshupal08?style=for-the-badge&color=E879F9&labelColor=1e1b2e"/>
-
-</div>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems+with+AI%2FML;Full+Stack+Developer+%7C+React.js+%2B+Python;Turning+Data+into+Deep+Learning+Solutions;Open+to+SDE+%2F+AI+Engineer+Roles" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<table align="center" width="100%">
-<tr>
-<td align="center" width="25%">
+![B.Tech CSE](https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=for-the-badge&logo=studyverse&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA-8.94-8B5CF6?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Punjab%2C%20India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-### 🎓
-**8.94**
-CGPA
+<br/>
 
-</td>
-<td align="center" width="25%">
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=flat-square&logo=vercel&logoColor=white)](https://github.com/Priyanshupal08)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-5B21B6?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-pal2006)
+[![Email](https://img.shields.io/badge/Email-Contact-4C1D95?style=flat-square&logo=gmail&logoColor=white)](mailto:priyanshupal081206@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/Priyanshupal08)
 
-### 🏗️
-**3+**
-Shipped Projects
+<br/>
 
-</td>
-<td align="center" width="25%">
+![Profile Views](https://komarev.com/ghpvc/?username=Priyanshupal08&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Priyanshupal08?style=for-the-badge&color=A78BFA&labelColor=1e1e2e)
+![Stars](https://img.shields.io/github/stars/Priyanshupal08?style=for-the-badge&color=C4B5FD&labelColor=1e1e2e)
 
-### 🧬
-**AI / ML**
-Core Focus
-
-</td>
-<td align="center" width="25%">
-
-### 📍
-**Punjab, IN**
-Based In
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,50:A855F7,100:D946EF&height=3&section=header" width="100%"/>
 </div>
+
+---
 
 ## 🪐 About Me
 
-I'm a Computer Science undergraduate who builds at the intersection of **AI/ML** and **full-stack engineering** — designing machine learning pipelines one day and shipping polished web interfaces the next. My work spans **molecular intelligence**, **operating systems simulation**, and **human-computer interaction**, always grounded in clean, scalable, production-minded code.
+```yaml
+name: "Priyanshu Pal"
+role: "Software Engineer | AI/ML Enthusiast | Full Stack Developer"
+education: "B.Tech CSE @ Lovely Professional University (CGPA: 8.94)"
+focus:
+  - Building AI/ML systems that solve real-world problems
+  - Engineering scalable full stack web applications
+  - Exploring Deep Learning, NLP & Molecular Intelligence
+mindset: "Product-first engineering with a research-driven approach"
+```
 
-> 🎯 **Currently open to:** Software Engineering Roles · AI/ML Engineer Roles · Research Collaborations · Open Source Contribution
+I'm a Computer Science undergraduate with a strong foundation in **software engineering**, **AI/ML**, and **full stack development**. I enjoy building systems end-to-end — from designing machine learning pipelines to shipping production-ready web interfaces. My work spans **molecular intelligence**, **operating systems simulation**, and **human-computer interaction**, with a consistent focus on writing clean, scalable, and well-engineered code.
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,50:A855F7,100:D946EF&height=3&section=header" width="100%"/>
-</div>
+**🎯 Open To:** Software Engineering Internships/Roles · AI/ML Engineer Roles · Open Source Collaboration · Research Assistantships
+
+---
 
 ## 🧠 Tech Stack
 
-<table align="center" width="100%">
-<tr>
-<td align="center" width="25%"><b>Languages</b><br/><br/><img src="https://skillicons.dev/icons?i=cpp,python,java"/></td>
-<td align="center" width="25%"><b>Frontend</b><br/><br/><img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind"/></td>
-<td align="center" width="25%"><b>AI / ML</b><br/><br/><img src="https://skillicons.dev/icons?i=tensorflow,py"/></td>
-<td align="center" width="25%"><b>Tools</b><br/><br/><img src="https://skillicons.dev/icons?i=git,github,vscode,arduino"/></td>
-</tr>
-</table>
+**Languages**
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,50:A855F7,100:D946EF&height=3&section=header" width="100%"/>
-</div>
+![C++](https://skillicons.dev/icons?i=cpp) ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java)
+
+**Frontend**
+
+![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![React](https://skillicons.dev/icons?i=react) ![Tailwind](https://skillicons.dev/icons?i=tailwind)
+
+**AI/ML & Data**
+
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+
+**Cloud, DevOps & Tooling**
+
+![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Arduino](https://skillicons.dev/icons?i=arduino)
+
+---
 
 ## 🤖 AI / ML Expertise
 
@@ -107,9 +82,7 @@ I'm a Computer Science undergraduate who builds at the intersection of **AI/ML**
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,50:A855F7,100:D946EF&height=3&section=header" width="100%"/>
-</div>
+---
 
 ## 🚀 Featured Projects
 
@@ -170,9 +143,7 @@ Implemented play, pause, volume adjustment, and track navigation via gesture rec
 
 </details>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,50:A855F7,100:D946EF&height=3&section=header" width="100%"/>
-</div>
+---
 
 ## 💼 Experience
 
@@ -187,9 +158,7 @@ Contributed to a corporate social responsibility initiative, applying technical 
 
 `Collaboration` `Project Execution` `Analytical Thinking`
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,50:A855F7,100:D946EF&height=3&section=header" width="100%"/>
-</div>
+---
 
 ## 🏆 Achievements
 
@@ -205,53 +174,49 @@ Contributed to a corporate social responsibility initiative, applying technical 
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,50:A855F7,100:D946EF&height=3&section=header" width="100%"/>
-</div>
+---
 
 ## 📜 Certifications
 
-<div align="center">
+**AWS / Cloud & Industry**
 
-![Infosys](https://img.shields.io/badge/Infosys-Artificial%20Intelligence-4F46E5?style=for-the-badge)
-![GenAI](https://img.shields.io/badge/GenAI-Fundamentals-7C3AED?style=for-the-badge)
-![HackerRank](https://img.shields.io/badge/HackerRank-Python%20%26%20SQL-9333EA?style=for-the-badge&logo=hackerrank&logoColor=white)
+![Infosys](https://img.shields.io/badge/Infosys-Artificial%20Intelligence-6D28D9?style=for-the-badge&logo=infosys&logoColor=white)
 
-</div>
+**NPTEL / Academic**
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,50:A855F7,100:D946EF&height=3&section=header" width="100%"/>
-</div>
+![GenAI](https://img.shields.io/badge/GenAI-Fundamentals-7C3AED?style=for-the-badge&logo=googlebard&logoColor=white)
+
+**HackerRank**
+
+![HackerRank](https://img.shields.io/badge/HackerRank-Python%20%26%20SQL%20Basics-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white)
+
+---
 
 ## 💻 Coding Profiles
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-4F46E5?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-9333EA?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-C026D3?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-5B21B6?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-4C1D95?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-7C3AED?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/)
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,50:A855F7,100:D946EF&height=3&section=header" width="100%"/>
-</div>
+---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-ashy.vercel.app/api?username=Priyanshupal08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Priyanshupal08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshupal08&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
 
-<img src="https://github-readme-stats-sigma-ashy.vercel.app/api/top-langs/?username=Priyanshupal08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshupal08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="49%"/>
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,50:A855F7,100:D946EF&height=3&section=header" width="100%"/>
-</div>
+---
 
 ## 🏆 GitHub Trophies
 
@@ -261,9 +226,7 @@ Contributed to a corporate social responsibility initiative, applying technical 
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,50:A855F7,100:D946EF&height=3&section=header" width="100%"/>
-</div>
+---
 
 ## 📈 Contribution Activity
 
@@ -273,23 +236,17 @@ Contributed to a corporate social responsibility initiative, applying technical 
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,50:A855F7,100:D946EF&height=3&section=header" width="100%"/>
-</div>
+---
 
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Priyanshupal08/Priyanshupal08/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
-
-<sub>⚠️ This goes live once the Snake GitHub Action is added — see <code>snake.yml</code> provided alongside this README.</sub>
+<img src="https://raw.githubusercontent.com/Priyanshupal08/Priyanshupal08/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,50:A855F7,100:D946EF&height=3&section=header" width="100%"/>
-</div>
+---
 
 ## 🎯 Current Focus
 
@@ -309,27 +266,25 @@ Open To:
   - Research collaborations
 ```
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,50:A855F7,100:D946EF&height=3&section=header" width="100%"/>
-</div>
+---
 
 ## 📫 Connect With Me
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-priyanshupal081206%40gmail.com-4F46E5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshupal081206@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-priyanshu--pal2006-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-pal2006)
-[![GitHub](https://img.shields.io/badge/GitHub-Priyanshupal08-9333EA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priyanshupal08)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-C026D3?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Priyanshupal08)
+[![Gmail](https://img.shields.io/badge/Gmail-priyanshupal081206%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshupal081206@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-priyanshu--pal2006-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-pal2006)
+[![GitHub](https://img.shields.io/badge/GitHub-Priyanshupal08-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priyanshupal08)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Priyanshupal08)
 
 </div>
 
-<div align="center">
+---
 
-<br/>
+<div align="center">
 
 *"Engineering intelligent systems, one commit at a time."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C026D3,35:A855F7,70:7C3AED,100:4F46E5&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer" width="100%"/>
 
 </div>
