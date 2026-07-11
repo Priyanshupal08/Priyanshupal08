@@ -1,169 +1,222 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,25:9B5DE5,50:F15BB5,75:00BBF9,100:00F5D4&height=280&section=header&text=Hey,%20I'm%20Priyanshu%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%C2%B7%20Full%20Stack%20Developer%20%C2%B7%20Builder&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=priyanshu-pal%20%2F%20engineer-v2026&fontSize=34&fontColor=A78BFA&animation=fadeIn&fontAlignY=45" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2200&pause=700&color=00F5D4&center=true&vCenter=true&width=750&lines=const+engineer+%3D+%7B+ai%3A+true%2C+fullstack%3A+true+%7D;building+MoleculeAI+%F0%9F%A7%AC+%7C+shipping+ideas+%F0%9F%9A%80;CGPA%3A+8.94+%7C+B.Tech+CSE+%7C+LPU;open+to+SDE+%2F+AI+Engineer+roles+%E2%9C%A8" alt="typing"/>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=900&color=8B5CF6&center=true&vCenter=true&width=680&lines=%3E%3E%3E+import+priyanshu+as+engineer;%3E%3E%3E+engineer.load_weights(%22lpu_cse_2024.pt%22);%3E%3E%3E+engineer.status%0A'ready_for_deployment'" alt="typing"/>
 
 <br/>
 
-<a href="mailto:priyanshupal081206@gmail.com"><img src="https://img.shields.io/badge/-Email-00F5D4?style=for-the-badge&logo=gmail&logoColor=000"/></a>
-<a href="https://linkedin.com/in/priyanshu-pal2006"><img src="https://img.shields.io/badge/-LinkedIn-9B5DE5?style=for-the-badge&logo=linkedin&logoColor=fff"/></a>
-<a href="https://github.com/Priyanshupal08"><img src="https://img.shields.io/badge/-GitHub-F15BB5?style=for-the-badge&logo=github&logoColor=fff"/></a>
-
-<img src="https://komarev.com/ghpvc/?username=Priyanshupal08&style=for-the-badge&color=9B5DE5&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/Priyanshupal08?style=for-the-badge&color=00F5D4&labelColor=1e1e2e"/>
+`Model Type: Full-Stack Engineer + AI/ML Specialist` &nbsp;|&nbsp; `License: open-to-work` &nbsp;|&nbsp; `Version: 2026.05`
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+<br/>
 
-## 🪄 About Me
+# 🗂️ Model Card: Priyanshu Pal
 
-<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif"/>
+> A general-purpose engineering model fine-tuned on real-world problems, optimized for AI/ML systems and full-stack product delivery. Trained continuously since 2024, currently in active deployment.
 
-- 🔭 Currently building **MoleculeAI** — predicting molecular properties with ML/DL
-- 🌱 Deepening my knowledge of **Transformers**, **NLP** & **System Design**
-- 🎓 B.Tech CSE @ **Lovely Professional University** — CGPA **8.94**
-- ⚡ Fun fact: I've simulated OS-level IPC *and* controlled a media player with hand gestures
-- 📫 Reach me at **priyanshupal081206@gmail.com**
-- 🎯 Open to **Software Engineering**, **AI/ML Engineer**, and **Research** roles
-
-<br clear="both"/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
-
-## 🧬 Skill Radar
-
-```mermaid
-%%{init: {'theme':'dark'}}%%
-pie showData
-    title Where my hours go
-    "AI / Machine Learning" : 35
-    "Full Stack Development" : 30
-    "DSA & Problem Solving" : 20
-    "Embedded / Hardware" : 15
-```
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,react,tailwind,tensorflow,git,github,vscode,arduino&theme=dark&perline=7" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
-
-## 🗺️ Journey So Far
-
-```mermaid
-%%{init: {'theme': 'dark'}}%%
-timeline
-    title From First Line of Code to AI Engineer
-    2021–2022 : Matriculation, 92.2%
-    2023–2024 : Intermediate, 84.4%
-    2024 : Started B.Tech CSE @ LPU
-    Feb 2025 : Python & SQL Basics — HackerRank
-    Apr 2025 : Advitiya Hackathon @ IIT Ropar
-    Jun 2025 : GenAI Fundamentals Certified
-    Jul–Aug 2025 : CSR Internship — WNS Cares Foundation
-    Oct 2025 : Built Gesture Controlled Media Player
-    Jan 2026 : Built Secure IPC Simulation
-    Mar 2026 : AI Course — Infosys Springboard
-    May 2026 : Shipped MoleculeAI
-```
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
-
-## 🧩 Featured Builds
-
-<table align="center" width="100%">
-<tr>
-<td width="33%" valign="top" align="center">
-<img width="60" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
-
-### MoleculeAI
-Predicting molecular toxicity & solubility with ML/DL.
-
-`Python` `TensorFlow` `RDKit` `XGBoost`
-**May 2026**
-</td>
-<td width="33%" valign="top" align="center">
-<img width="60" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif"/>
-
-### Secure IPC
-Interactive OS-level IPC mechanism simulator.
-
-`HTML` `CSS` `JavaScript`
-**Jan 2026**
-</td>
-<td width="33%" valign="top" align="center">
-<img width="60" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif"/>
-
-### Gesture Media Player
-Touch-free media control via Arduino + ultrasonic sensors.
-
-`Arduino` `PySerial`
-**Oct 2025**
-</td>
-</tr>
+<table align="center">
+<tr><td><b>Developed by</b></td><td>Priyanshu Pal</td></tr>
+<tr><td><b>Base institution</b></td><td>Lovely Professional University — B.Tech CSE</td></tr>
+<tr><td><b>Training accuracy</b></td><td>8.94 / 10 CGPA</td></tr>
+<tr><td><b>Primary languages</b></td><td>C++, Python, Java</td></tr>
+<tr><td><b>Specializations</b></td><td>Machine Learning · Deep Learning · Full-Stack Development · NLP</td></tr>
+<tr><td><b>Contact endpoint</b></td><td>priyanshupal081206@gmail.com</td></tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+---
 
-## 📡 Live GitHub Signal
+## 🧠 Architecture
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-ashy.vercel.app/api?username=Priyanshupal08&show_icons=true&theme=synthwave&hide_border=true&bg_color=00000000&title_color=00F5D4&icon_color=F15BB5&text_color=e0e0e0&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshupal08&theme=dark&hide_border=true&background=00000000&ring=9B5DE5&fire=F15BB5&currStreakLabel=00F5D4" width="48%"/>
+```mermaid
+graph LR
+    A["📥 Problem Statements"] --> B1["C++"]
+    A --> B2["Python"]
+    A --> B3["Java"]
+    B1 & B2 & B3 --> C1["React.js"]
+    B1 & B2 & B3 --> C2["TensorFlow"]
+    B1 & B2 & B3 --> C3["Scikit-Learn / XGBoost"]
+    B1 & B2 & B3 --> C4["Node / Web Stack"]
+    C1 & C2 & C3 & C4 --> D["📤 Production-Ready Systems"]
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshupal08&theme=react-dark&hide_border=true&bg_color=00000000&color=00F5D4&line=9B5DE5&point=F15BB5" width="98%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Priyanshupal08&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
+    style A fill:#1e1b2e,stroke:#8B5CF6,color:#fff
+    style D fill:#1e1b2e,stroke:#8B5CF6,color:#fff
+    style B1 fill:#2d1b4e,stroke:#A78BFA,color:#fff
+    style B2 fill:#2d1b4e,stroke:#A78BFA,color:#fff
+    style B3 fill:#2d1b4e,stroke:#A78BFA,color:#fff
+    style C1 fill:#3b1f6e,stroke:#C4B5FD,color:#fff
+    style C2 fill:#3b1f6e,stroke:#C4B5FD,color:#fff
+    style C3 fill:#3b1f6e,stroke:#C4B5FD,color:#fff
+    style C4 fill:#3b1f6e,stroke:#C4B5FD,color:#fff
+```
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
-
-## 🐍 Contribution Snake
+## 🔄 Training Lifecycle
 
 <div align="center">
+
+```mermaid
+stateDiagram-v2
+    [*] --> Learning
+    Learning --> Building: apply knowledge
+    Building --> Testing: ship v0.1
+    Testing --> Deploying: passes eval
+    Deploying --> Learning: new challenge found
+    Deploying --> [*]: goal achieved
+
+    classDef default fill:#1e1b2e,stroke:#8B5CF6,color:#fff
+```
+
+</div>
+
+---
+
+## 📊 Evaluation Results
+
+<div align="center">
+
+| Benchmark | Metric | Score |
+|---|---|---|
+| Academic Performance | CGPA (LPU) | **8.94 / 10** |
+| Advitiya Hackathon — IIT Ropar | Tracks Cleared | AI Fusion · Code Hunt · Math Arena · CTF |
+| WNS Cares Foundation | CSR Internship | Completed — Jul–Aug 2025 |
+| Infosys Springboard | AI Certification | Passed — Mar 2026 |
+| GenAI Fundamentals | Certification | Passed — Jun 2025 |
+| HackerRank | Python & SQL Basics | Certified — Feb 2025 |
+
+</div>
+
+## 📦 Training Data (Background)
+
+```yaml
+matriculation:
+  institution: Singhania Educational Institute
+  score: 92.2%
+  year: 2021-2022
+
+intermediate:
+  institution: Singhania Educational Institute
+  score: 84.4%
+  year: 2023-2024
+
+undergraduate:
+  institution: Lovely Professional University
+  program: B.Tech, Computer Science & Engineering
+  cgpa: 8.94
+  status: in_progress (2024 - present)
+```
+
+---
+
+## 🚀 Deployments (Featured Projects)
+
+<div align="center">
+
+| Deployment | Environment | Status | Version |
+|---|---|---|---|
+| **MoleculeAI** — molecular toxicity & solubility prediction | Research / ML Pipeline | 🟢 Live | v1.0 · May 2026 |
+| **Secure IPC** — inter-process communication simulator | Educational / Web | 🟢 Live | v1.0 · Jan 2026 |
+| **Gesture Controlled Media Player** | Embedded / Hardware | 🟢 Live | v1.0 · Oct 2025 |
+
+</div>
+
+<details>
+<summary><b>🔍 Inspect deployment: MoleculeAI</b></summary>
+<br/>
+
+**Stack:** Python · TensorFlow · Scikit-Learn · React.js · Tailwind CSS · RDKit · XGBoost
+**Description:** Predicts molecular toxicity and solubility from SMILES-notation input using engineered molecular descriptors, benchmarked across Random Forest, XGBoost, and transformer-based architectures.
+
+</details>
+
+<details>
+<summary><b>🔍 Inspect deployment: Secure IPC</b></summary>
+<br/>
+
+**Stack:** HTML · CSS · JavaScript
+**Description:** Simulates message routing, shared memory, and process lifecycle management with an interactive interface for visualizing OS-level process communication.
+
+</details>
+
+<details>
+<summary><b>🔍 Inspect deployment: Gesture Controlled Media Player</b></summary>
+<br/>
+
+**Stack:** Arduino IDE · Python (PySerial) · Arduino Uno · Ultrasonic Sensors
+**Description:** Touch-free media control — play, pause, volume, and track navigation — through real-time gesture recognition and hardware-software serial communication.
+
+</details>
+
+---
+
+## ⚠️ Limitations & Notes
+
+```diff
++ Performs best under real deadlines and genuine problem constraints
++ Strong generalization across ML, web, and embedded domains
+- May occasionally over-optimize side projects at 2 AM
+! Requires coffee for peak inference speed ☕
+```
+
+---
+
+## 📡 Live Inference Metrics
+
+<div align="center">
+
+<img src="https://github-readme-stats-sigma-ashy.vercel.app/api?username=Priyanshupal08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshupal08&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="48%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshupal08&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD" width="98%"/>
 
 <img src="https://raw.githubusercontent.com/Priyanshupal08/Priyanshupal08/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+---
 
-## 🏆 Certifications & Recognition
+## 📖 How to Cite This Model
+
+```bibtex
+@engineer{pal2026priyanshu,
+  author       = {Priyanshu Pal},
+  title        = {Full-Stack Engineer and AI/ML Specialist},
+  institution  = {Lovely Professional University},
+  year         = {2026},
+  note         = {Actively accepting collaboration and hiring requests}
+}
+```
+
+## 🔌 API Endpoints (Contact)
+
+```bash
+# Reach out via email
+curl -X POST https://contact.priyanshu.dev \
+  -d '{"channel": "email", "address": "priyanshupal081206@gmail.com"}'
+
+# Connect on LinkedIn
+curl -X GET https://linkedin.com/in/priyanshu-pal2006
+
+# View source code
+curl -X GET https://github.com/Priyanshupal08
+```
 
 <div align="center">
 
-![Infosys](https://img.shields.io/badge/Infosys-Artificial%20Intelligence-00F5D4?style=for-the-badge)
-![GenAI](https://img.shields.io/badge/GenAI-Fundamentals-9B5DE5?style=for-the-badge)
-![HackerRank](https://img.shields.io/badge/HackerRank-Python%20%26%20SQL-F15BB5?style=for-the-badge&logo=hackerrank&logoColor=white)
-![IIT Ropar](https://img.shields.io/badge/IIT%20Ropar-Advitiya%20Hackathon-00BBF9?style=for-the-badge)
+<br/>
 
-</div>
+[![Email](https://img.shields.io/badge/-Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshupal081206@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-pal2006)
+[![GitHub](https://img.shields.io/badge/-GitHub-C4B5FD?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Priyanshupal08)
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+<br/>
 
-## 💬 Let's Build Something
+*model.status = "actively accepting new challenges"*
 
-<div align="center">
-
-<img width="200" src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1d54-4f4c-8f6e-cf5e28f39a04.gif"/>
-
-I'm most excited by problems where **AI meets real-world impact**. If that's you too, let's talk.
-
-<a href="mailto:priyanshupal081206@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-00F5D4?style=for-the-badge&logo=gmail&logoColor=000"/></a>
-<a href="https://linkedin.com/in/priyanshu-pal2006"><img src="https://img.shields.io/badge/Let's%20Connect-9B5DE5?style=for-the-badge&logo=linkedin&logoColor=fff"/></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,25:9B5DE5,50:F15BB5,75:00BBF9,100:00F5D4&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 </div>
