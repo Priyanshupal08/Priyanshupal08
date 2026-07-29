@@ -196,9 +196,9 @@ Contributed to a corporate social responsibility initiative, applying technical 
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-5B21B6?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-4C1D95?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/)
+[![Codolio](https://img.shields.io/badge/HackerRank-Profile-4C1D95?style=for-the-badge&logo=hackerrank&logoColor=white)]([https://hackerrank.com/](https://codolio.com/profile/priyanshu08))
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)]([https://leetcode.com/](https://leetcode.com/u/priyanshupal08/))
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-5B21B6?style=for-the-badge&logo=geeksforgeeks&logoColor=white)]([https://geeksforgeeks.org/](https://www.geeksforgeeks.org/profile/priyanshupal?tab=activity))
 [![CodeChef](https://img.shields.io/badge/CodeChef-Profile-7C3AED?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/)
 
 </div>
