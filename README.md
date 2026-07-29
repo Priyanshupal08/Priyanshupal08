@@ -8,7 +8,7 @@
 
 <br/>
 
-![B.Tech CSE]()
+![B.Tech CSE](https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=for-the-badge&logo=studyverse&logoColor=white)
 ![CGPA](https://img.shields.io/badge/CGPA-8.94-8B5CF6?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![Location](https://img.shields.io/badge/Location-Punjab%2C%20India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white)
 
